@@ -1,4 +1,4 @@
-# PendEdit Documentation
+# PendEdit - Pendelum Level Creation Tool
 
 The following documentation will provide a quick overview over the usage of the [PendEdit](https://pendedit.pendulumgame.com/) Level Creation Tool for [Pendelum](https://pendulumgame.com/).
 
